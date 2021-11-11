@@ -9,7 +9,7 @@ class pegue:
         
     def printcolor(self):
         print(self.color)
-        print(self.type)
+        printt(self.color)
         
 p1 = pegue('tak','red')
 
